@@ -36,7 +36,7 @@ export default function NavBar() {
             </ul>
             <form class="d-flex" role="search">
               <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search"/>
-                <button class="btn btn-success" type="submit">Buscar</button>
+                <button class="btn btn-danger" type="submit">Buscar</button>
             </form>
           </div>
         </div>
