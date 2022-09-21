@@ -1,0 +1,3 @@
+Pais
+Nombre de jugador
+String img = "https://github.com/imFreeZ1ng/Album/blob/main/image.png?raw=true"
